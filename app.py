@@ -6,7 +6,7 @@ import joblib
 st.set_page_config(page_title="Prédiction CHD", page_icon="🫀")
 
 # Titre principal
-st.title("🫀 Prédiction du Risque Cardiaque dévelopee")
+st.title("🫀 Prédiction du Risque Cardiaque dévelopée par Maryem")
 st.write("Application développée par MARYEM")
 
 # Barre latérale avec informations
